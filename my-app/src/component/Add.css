@@ -1,0 +1,27 @@
+.form{
+    margin: 50px;
+margin-left:100px;
+}
+input{
+    margin-right: 100px;
+
+}
+.btn{
+    background-color:yellowgreen;
+    color: whitesmoke;
+    height:40px;
+    width:100px;
+    border-radius: 10px;  
+    outline: none;
+    
+    border-style:solid;
+}
+
+input[type=text]{
+    height:30px;
+    width:200px;
+    border-radius: 10px;
+    outline:none;
+    border-style:solid;
+    
+}
